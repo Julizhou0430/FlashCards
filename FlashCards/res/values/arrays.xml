@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+	<string-array name="select_dialog_items">
+		<item>记忆卡片模式</item>
+		<item>列表记忆模式</item>
+	</string-array>
+	
+	<string-array name="select_task_type">
+		<item>每节10个单词</item>
+		<item>每节20个单词</item>
+		<item>每节50个单词</item>
+		
+	</string-array>
+
+	<string-array name="select_task_type_value">
+		<item>10</item>
+		<item>20</item>
+		<item>50</item>
+		
+	</string-array>
+</resources>
